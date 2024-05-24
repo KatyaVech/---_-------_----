@@ -1,0 +1,1 @@
+валідація register form 
